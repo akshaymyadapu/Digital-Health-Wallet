@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# environment variables
+.env
+
+# uploads (optional)
+uploads/*
+
+# logs
+npm-debug.log*
+
+# sqlite database
+database.sqlite
+
